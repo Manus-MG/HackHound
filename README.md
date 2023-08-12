@@ -1,6 +1,14 @@
 # hackhound
 
-A new Flutter project.
+Apk Link :- [Link](https://tinyurl.com/playtopiagame)
+
+## Features
+• Developed an application with various game levels and challenges to enhance a player’s aim and accuracy.
+
+• Developed a one-click sponsorship feature for gamers to share their gaming statistics reports with potential sponsors
+over email.
+
+• Used Mediapipe to implement in-app streaming with facemesh to optimize camera focus for seamless live gameplay.
 
 ## Getting Started
 
